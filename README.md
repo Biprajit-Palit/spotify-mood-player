@@ -37,12 +37,11 @@ This is a simple web-based project that allows users to select their current moo
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/music-mood-ui.git
-````
 
 2. Open `index.html` in your browser.
 
 > No installation or setup required — everything runs in the browser!
-
+``
 ## 📌 Use Case
 
 Perfect for:
@@ -51,9 +50,8 @@ Perfect for:
 * Creating mood-based music experiences.
 * Anyone looking for a fun way to explore Spotify playlists.
 
-## 🌐 Live Demo
+## 🔗 [ 🌐 Live Demo](https://biprajit-palit.github.io/spotify-mood-player/)
 
-🔗 [View Live on GitHub Pages](https://your-username.github.io/music-mood-ui)
 
 ## 👤 Author
 
@@ -61,6 +59,9 @@ Made with ❤️ and Spotify by **Biprajit Palit**
 
 ---
 
-© 2025 Biprajit Palit. All rights reserved.
+© 2025 Biprajit Palit. All rights reserved.Live Demo](https://biprajit-palit.github.io/spotify-mood-player/)**
+
+
+
 
 
